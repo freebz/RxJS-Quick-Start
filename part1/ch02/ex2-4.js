@@ -1,0 +1,4 @@
+class NewsPaper {
+  setNews(news) {
+  }
+}
