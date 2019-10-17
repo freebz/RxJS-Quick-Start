@@ -1,0 +1,6 @@
+user$
+    // ...
+    // mergeMap(query => ajax.getJSON(`https://api.github.com/search/users?q=${query}`))
+    mergeMap(query => ajax.getJSON(`https://api.github.com/search/users?q=${query}`))
+    switchAll()
+// ...
