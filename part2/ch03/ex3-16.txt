@@ -1,0 +1,6 @@
+is going 0
+promise value 0
+is going 1
+is going 2
+is going 3
+...

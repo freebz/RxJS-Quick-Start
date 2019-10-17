@@ -1,0 +1,3 @@
+create promise
+첫번째 promise 1
+두번째 promise 1

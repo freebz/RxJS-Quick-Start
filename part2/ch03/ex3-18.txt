@@ -1,0 +1,7 @@
+is going 0
+observable value 0
+is going 1
+observable value 1
+is going 2
+observable value 2
+cancelled
