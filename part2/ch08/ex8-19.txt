@@ -1,0 +1,9 @@
+// start$와 move$의 차이값 1
+// start$와 move$의 차이값 3
+// start$와 move$의 차이값 10
+// start$와 move$의 차이값 15
+// start$와 move$의 차이값 21
+// start$와 move$의 차이값 26
+// start$와 move$의 차이값 30
+// start$와 move$의 차이값 36
+// ...
