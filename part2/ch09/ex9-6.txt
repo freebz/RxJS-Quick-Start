@@ -1,0 +1,10 @@
+// 캐러셀데이터 { distance: 0 }
+// 캐러셀데이터 { distance: -2 }
+// 캐러셀데이터 { distance: -3 }
+// 캐러셀데이터 { distance: -6 }
+// 캐러셀데이터 { distance: -9 }
+// 캐러셀데이터 { distance: -12 }
+// 캐러셀데이터 { distance: -15 }
+// ...
+// 캐러셀데이터 { distance: -28 }
+// 캐러셀데이터 { distance: -28, size: 545 }

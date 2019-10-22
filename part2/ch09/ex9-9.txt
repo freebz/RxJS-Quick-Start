@@ -1,0 +1,5 @@
+// 캐러셀 데이터 {from: -1, to: -1, index: 0, size: 0}
+// 캐러셀 데이터 {from: -2, to: -2, index: 0, size: 0}
+// 캐러셀 데이터 {from: -5, to: -5, index: 0, size: 0}
+// 캐러셀 데이터 {from: -6, to: -6, index: 0, size: 0}
+// ...
