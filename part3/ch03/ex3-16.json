@@ -1,0 +1,6 @@
+busRouteList: {
+    regionName: "구리,남양주,서울",
+    routeId: "222000137",
+    routeName: "1200-1",
+    routeTypeName: "직행좌석형시내버스"
+}

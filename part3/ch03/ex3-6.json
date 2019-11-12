@@ -1,0 +1,13 @@
+{
+    "busRouteList": [{
+ 	    "regionName": "구리,남양주,서울",
+	    "routeId": "234000873",
+	    "routeName": "100",
+	    "routeTypeName": "직행좌석형시내버스"
+        }, {
+	    "regionName": "고양,서울",
+	    "routeId": "219000013",
+	    "routeName": "1000",
+	    "routeTypeName": "직행좌석형시내버스"
+	}
+    ]
