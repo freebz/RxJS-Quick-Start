@@ -1,0 +1,14 @@
+{
+    "busRouteList": [{
+	"regionName": "안성",
+	"routeId": "231000007",
+	"routeName": "1",
+	"routeTypeName": "일반형시내버스",
+    }, {
+	"districtCd": "2",
+	"regionName": "안성",
+	"routeId": "231000018",
+	"routeName": "1-1",
+	"routeTypeName": "일반형시내버스",
+    }]
+}

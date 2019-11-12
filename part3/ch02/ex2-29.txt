@@ -1,0 +1,1 @@
+http://localhost:3000/bus/pass/station/버스정류소ID

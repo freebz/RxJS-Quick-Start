@@ -1,0 +1,19 @@
+// http://localhost:3000/station/around/경도/위도
+
+{
+    "busStationAroundList": [{
+	"mobileNo": "00000",
+	"regionName": "안성",
+	"stationId": "277103591",
+	"stationName": "송탄IC(경유)",
+	"x": "127.1082167",
+	"y": "37.0348833",
+    }, {
+	"mobileNo": "00000",
+	"regionName": "안성",
+	"stationId": "277103590",
+	"stationName": "송탄IC(경유)",
+	"x": "127.1075833",
+	"y": "37.0347333",
+    }]
+}
