@@ -1,0 +1,3 @@
+function geolocation(obs$) {
+    // ...
+}

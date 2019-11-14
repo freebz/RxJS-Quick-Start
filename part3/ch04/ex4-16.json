@@ -1,0 +1,6 @@
+{
+    coords: {
+	longitude: "경도",
+	latitude: "위도"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "busRouteStationList": [{
+	"regionName": "고양",
+	"stationId": "219000188",
+	"stationName": "탄현동종점",
+	"x": "126.7759667",
+	"y": "37.69505",
+    }, {
+	"regionName": "고양",
+	"stationId": "277103694",
+	"stationName": "한산초교사거리(경유)",
+	"x": "126.7741",
+	"y": "37.6939167",
+    }]
+}
